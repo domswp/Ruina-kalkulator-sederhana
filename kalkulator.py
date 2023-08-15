@@ -3,7 +3,7 @@ import tkinter as tk
 class CalculatorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Ruina Kalkulator Sederhana")
+        self.root.title("Domas Kalkulator Sederhana")
         
         self.entry = tk.Entry(root, width=20, font=('Helvetica', 20))
         self.entry.grid(row=0, column=0, columnspan=4)
