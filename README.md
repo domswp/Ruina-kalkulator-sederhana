@@ -4,11 +4,11 @@ Ini adalah proyek simple kalkulator sederhana dengan antarmuka pengguna (UI) yan
 
 ## Prasyarat
 
-Sebelum Anda menjalankan program ini, pastikan Anda telah menginstal Python di komputer Anda.
+Sebelum menjalankan program ini, pastikan telah menginstal Python di komputer.
 
 ## Instalasi
 
-1. Clone repositori ini ke komputer Anda.
+1. Clone repositori ini ke komputer.
 2. Masuk ke direktori proyek.  
 3. Buat dan aktifkan lingkungan virtual (opsional, tapi direkomendasikan).
     #python -m venv venv
@@ -26,14 +26,14 @@ Sebelum Anda menjalankan program ini, pastikan Anda telah menginstal Python di k
 
 ## Kontribusi
 
-Anda dianjurkan untuk melakukan kontribusi pada proyek ini melalui _pull request_. Jika Anda menemui masalah atau memiliki usulan fitur, silakan buka _issue_ baru.
+Siapapun boleh saja melakukan kontribusi pada proyek ini melalui _pull request_. Jika menemui bug atau memiliki usulan fitur, silakan buka _issue_ baru.
 
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT
 
 ---
-Dibangun dengan ❤️ oleh domswp"ruina"
+Dibangun dengan ❤️ oleh Domas "ruina" wiladatu p
 
 
 
