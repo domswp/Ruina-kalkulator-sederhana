@@ -33,7 +33,7 @@ Anda dianjurkan untuk melakukan kontribusi pada proyek ini melalui _pull request
 Proyek ini dilisensikan di bawah Lisensi MIT
 
 ---
-Dibangun dengan ❤️ oleh [ruina]
+Dibangun dengan ❤️ oleh domswp"ruina"
 
 
 
