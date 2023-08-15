@@ -33,7 +33,7 @@ Siapapun boleh saja melakukan kontribusi pada proyek ini melalui _pull request_.
 Proyek ini dilisensikan di bawah Lisensi MIT
 
 ---
-Dibangun dengan ❤️ oleh Domas "ruina" wiladatu p
+Dibangun dengan ❤️ oleh Domas Wiladatu P
 
 
 
